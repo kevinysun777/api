@@ -11,6 +11,7 @@ storage
 !package.json
 !package-lock.json
 !tsconfig.json
+.env
 
 # any output from the crawler
 *.json
